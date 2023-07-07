@@ -21,7 +21,7 @@
     
 }
 .logo{
-    width: 120px;
+    width: 200px;
 }
 .items{
     margin-right: 10px;
@@ -79,4 +79,38 @@
    width: 350px;
    margin:50px;
 }
+.about-us-heading{
+    background-color: rgba(254, 168, 3, 255);
+    text-align: center;
+}
+.about-us-pic{
+    height: 95px;
+    width: 280px;
+    margin:0px;
+    padding: 0px;
+}
 
+.aboutus{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-us-photo{
+    width: 100%;
+    padding: 20px;
+    opacity: 70%;
+}
+
+.about-us-text{
+    padding: 30px
+}
+.big-text{
+    font-size: ;
+    margin-bottom: 20px;
+}
+
+.normal-text{
+    font-size: larger;
+    margin-bottom: 20px;
+}
